@@ -1,5 +1,9 @@
 # Multi-Threaded Speedtest Downloader
 
+![screen](https://i.imgur.com/z4HFOsX.png)
+
+
+
 A Python script to perform high-speed downloads from multiple Speedtest servers using multiple threads per server. It includes features like automatic thread restart on slow connections and total traffic limit enforcement.
 
 ## Features
@@ -26,3 +30,4 @@ pip install requests
 ```
 
 > **Note:** Installing packages system-wide on Debian/Ubuntu may require using `apt` or `pipx`.
+
